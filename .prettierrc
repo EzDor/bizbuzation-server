@@ -1,4 +1,13 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all"
+  "overrides": [
+    {
+      "files": ["*.js", "*.ts", "*.scss", "*.html"],
+      "options": {
+        "printWidth": 160,
+        "tabWidth": 2,
+        "singleQuote": true,
+        "bracketSpacing": true
+      }
+    }
+  ]
 }
