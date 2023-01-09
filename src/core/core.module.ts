@@ -1,18 +1,8 @@
-import { Module, Optional } from '@nestjs/common';
+import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
+import { DbConfig } from '@src/core/db/db-config';
 
 @Module({
-  imports: [
-    TypeOrmModule.forRoot({
-      type: 'mysql',
-      host: 'localhost',
-      port: 3306,
-      username: 'root',
-      password: 'password',
-      database: 'bizbuzation',
-      entities: [],
-      synchronize: false,
-    }),
-  ],
+  imports: [TypeOrmModule.forRoot(DbConfig.getDbConfig(process.env.NODE_ENV))],
 })
 export class CoreModule {}
