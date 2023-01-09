@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { ReportExpenseDto } from '@src/report-expense/dto/report-expense.dto';
+import { ReportExpenseDto } from '@src/dto/report-expense/report-expense.dto';
 
 @Injectable()
 export class ReportExpenseService {

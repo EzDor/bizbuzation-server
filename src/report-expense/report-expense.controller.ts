@@ -1,5 +1,5 @@
 import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
-import { ReportExpenseDto } from '@src/report-expense/dto/report-expense.dto';
+import { ReportExpenseDto } from '@src/dto/report-expense/report-expense.dto';
 import { ReportExpenseService } from '@src/report-expense/report-expense.service';
 
 @Controller('report-expense')

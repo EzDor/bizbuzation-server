@@ -1,4 +1,4 @@
-export class ReportExpenseDto {
+export interface ReportExpenseDto {
   id: number;
   date: Date;
   amount: number;
