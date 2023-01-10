@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "date": "2023-01-10T07:35:55.667Z",
+    "amount": 263.5374150637102,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 2,
+    "date": "2023-01-11T07:35:55.667Z",
+    "amount": 500.8759921940107,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 3,
+    "date": "2023-01-12T07:35:55.667Z",
+    "amount": 169.88431299194497,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 4,
+    "date": "2023-01-13T07:35:55.667Z",
+    "amount": 429.74981910198017,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 5,
+    "date": "2023-01-14T07:35:55.667Z",
+    "amount": 93.52985887412291,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 6,
+    "date": "2023-01-15T07:35:55.667Z",
+    "amount": 134.3107650019091,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 7,
+    "date": "2023-01-16T07:35:55.667Z",
+    "amount": 655.0625051051351,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 8,
+    "date": "2023-01-17T07:35:55.667Z",
+    "amount": 888.4821416064568,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 9,
+    "date": "2023-01-18T07:35:55.667Z",
+    "amount": 523.5459519435906,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 10,
+    "date": "2023-01-19T07:35:55.667Z",
+    "amount": 515.2839304011827,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 11,
+    "date": "2023-01-20T07:35:55.667Z",
+    "amount": 881.0725083518158,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 12,
+    "date": "2023-01-21T07:35:55.667Z",
+    "amount": 781.3955146956057,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 13,
+    "date": "2023-01-22T07:35:55.667Z",
+    "amount": 538.301542536453,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 14,
+    "date": "2023-01-23T07:35:55.667Z",
+    "amount": 233.44570119763918,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 15,
+    "date": "2023-01-24T07:35:55.667Z",
+    "amount": 492.6943537654376,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 16,
+    "date": "2023-01-25T07:35:55.667Z",
+    "amount": 141.88079614587855,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 17,
+    "date": "2023-01-26T07:35:55.667Z",
+    "amount": 882.4894109739396,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 18,
+    "date": "2023-01-27T07:35:55.667Z",
+    "amount": 494.4948829648448,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 19,
+    "date": "2023-01-28T07:35:55.667Z",
+    "amount": 651.7359286763295,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 20,
+    "date": "2023-01-29T07:35:55.667Z",
+    "amount": 387.1191420281297,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 21,
+    "date": "2023-01-30T07:35:55.667Z",
+    "amount": 720.348416672472,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 22,
+    "date": "2023-01-31T07:35:55.667Z",
+    "amount": 192.70276005846497,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 23,
+    "date": "2023-02-01T07:35:55.667Z",
+    "amount": 877.9001727278015,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 24,
+    "date": "2023-02-02T07:35:55.667Z",
+    "amount": 177.97446083059887,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 25,
+    "date": "2023-02-03T07:35:55.667Z",
+    "amount": 37.70086382984195,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 26,
+    "date": "2023-02-04T07:35:55.667Z",
+    "amount": 789.0444909421299,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 27,
+    "date": "2023-02-05T07:35:55.667Z",
+    "amount": 646.5958831235845,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 28,
+    "date": "2023-02-06T07:35:55.667Z",
+    "amount": 169.6247193416378,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 29,
+    "date": "2023-02-07T07:35:55.667Z",
+    "amount": 672.451154704145,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 30,
+    "date": "2023-02-08T07:35:55.667Z",
+    "amount": 987.3207190686037,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 31,
+    "date": "2023-02-09T07:35:55.667Z",
+    "amount": 498.41680353865047,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 32,
+    "date": "2023-02-10T07:35:55.667Z",
+    "amount": 203.6801238956687,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 33,
+    "date": "2023-02-11T07:35:55.667Z",
+    "amount": 127.11363062952464,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 34,
+    "date": "2023-02-12T07:35:55.667Z",
+    "amount": 449.0229368052863,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 35,
+    "date": "2023-02-13T07:35:55.667Z",
+    "amount": 725.8772755350329,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 36,
+    "date": "2023-02-14T07:35:55.667Z",
+    "amount": 691.5745111971199,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 37,
+    "date": "2023-02-15T07:35:55.667Z",
+    "amount": 880.0566092021902,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 38,
+    "date": "2023-02-16T07:35:55.667Z",
+    "amount": 385.5594633865518,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 39,
+    "date": "2023-02-17T07:35:55.667Z",
+    "amount": 24.224105197684366,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 40,
+    "date": "2023-02-18T07:35:55.667Z",
+    "amount": 649.8204184992506,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 41,
+    "date": "2023-02-19T07:35:55.667Z",
+    "amount": 411.11359435263495,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 42,
+    "date": "2023-02-20T07:35:55.667Z",
+    "amount": 941.8160014295278,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 43,
+    "date": "2023-02-21T07:35:55.667Z",
+    "amount": 745.218295084751,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 44,
+    "date": "2023-02-22T07:35:55.667Z",
+    "amount": 502.3822557418669,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 45,
+    "date": "2023-02-23T07:35:55.667Z",
+    "amount": 621.1717880209846,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 46,
+    "date": "2023-02-24T07:35:55.667Z",
+    "amount": 274.8964250905708,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 47,
+    "date": "2023-02-25T07:35:55.667Z",
+    "amount": 11.060816959890252,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 48,
+    "date": "2023-02-26T07:35:55.667Z",
+    "amount": 442.7193654070234,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 49,
+    "date": "2023-02-27T07:35:55.667Z",
+    "amount": 306.84342843526105,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 50,
+    "date": "2023-02-28T07:35:55.667Z",
+    "amount": 195.6141059210945,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 51,
+    "date": "2023-03-01T07:35:55.667Z",
+    "amount": 631.0503320168237,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 52,
+    "date": "2023-03-02T07:35:55.667Z",
+    "amount": 465.22353800524405,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 53,
+    "date": "2023-03-03T07:35:55.667Z",
+    "amount": 933.1970477688523,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 54,
+    "date": "2023-03-04T07:35:55.667Z",
+    "amount": 927.3237532974688,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 55,
+    "date": "2023-03-05T07:35:55.667Z",
+    "amount": 862.2722473206242,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 56,
+    "date": "2023-03-06T07:35:55.667Z",
+    "amount": 160.96068589179225,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 57,
+    "date": "2023-03-07T07:35:55.667Z",
+    "amount": 291.66766961070476,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 58,
+    "date": "2023-03-08T07:35:55.667Z",
+    "amount": 99.9955507131487,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 59,
+    "date": "2023-03-09T07:35:55.667Z",
+    "amount": 133.54366324386245,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 60,
+    "date": "2023-03-10T07:35:55.667Z",
+    "amount": 514.5568512657994,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 61,
+    "date": "2023-03-11T07:35:55.667Z",
+    "amount": 961.5109375223611,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 62,
+    "date": "2023-03-12T07:35:55.667Z",
+    "amount": 514.2326309449938,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 63,
+    "date": "2023-03-13T07:35:55.667Z",
+    "amount": 746.5754498816764,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 64,
+    "date": "2023-03-14T07:35:55.667Z",
+    "amount": 224.4747904116906,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 65,
+    "date": "2023-03-15T07:35:55.667Z",
+    "amount": 773.4738377042252,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 66,
+    "date": "2023-03-16T07:35:55.667Z",
+    "amount": 609.1035302971118,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 67,
+    "date": "2023-03-17T07:35:55.667Z",
+    "amount": 709.7948679464128,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 68,
+    "date": "2023-03-18T07:35:55.667Z",
+    "amount": 407.40362092155016,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 69,
+    "date": "2023-03-19T07:35:55.667Z",
+    "amount": 921.3174833669186,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 70,
+    "date": "2023-03-20T07:35:55.667Z",
+    "amount": 308.02140258822794,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 71,
+    "date": "2023-03-21T07:35:55.667Z",
+    "amount": 844.4290744043428,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 72,
+    "date": "2023-03-22T07:35:55.667Z",
+    "amount": 717.6649725557979,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 73,
+    "date": "2023-03-23T07:35:55.667Z",
+    "amount": 610.8868066062365,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 74,
+    "date": "2023-03-24T07:35:55.667Z",
+    "amount": 730.0458630773738,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 75,
+    "date": "2023-03-25T07:35:55.667Z",
+    "amount": 546.413502376772,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 76,
+    "date": "2023-03-26T07:35:55.667Z",
+    "amount": 529.0830984966823,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 77,
+    "date": "2023-03-27T07:35:55.667Z",
+    "amount": 664.7104801273617,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 78,
+    "date": "2023-03-28T07:35:55.667Z",
+    "amount": 509.95036207228827,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 79,
+    "date": "2023-03-29T07:35:55.667Z",
+    "amount": 939.8408943071801,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 80,
+    "date": "2023-03-30T07:35:55.667Z",
+    "amount": 233.6124525669254,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 81,
+    "date": "2023-03-31T07:35:55.667Z",
+    "amount": 480.7657824212432,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 82,
+    "date": "2023-04-01T07:35:55.667Z",
+    "amount": 794.3448478026664,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 83,
+    "date": "2023-04-02T07:35:55.667Z",
+    "amount": 949.0222049537272,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 84,
+    "date": "2023-04-03T07:35:55.667Z",
+    "amount": 120.07810505085948,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 85,
+    "date": "2023-04-04T07:35:55.667Z",
+    "amount": 42.126643716692946,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 86,
+    "date": "2023-04-05T07:35:55.667Z",
+    "amount": 335.8426399290495,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 87,
+    "date": "2023-04-06T07:35:55.667Z",
+    "amount": 774.4795798596722,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 88,
+    "date": "2023-04-07T07:35:55.667Z",
+    "amount": 733.1549115729106,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 89,
+    "date": "2023-04-08T07:35:55.667Z",
+    "amount": 220.51146883870288,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 90,
+    "date": "2023-04-09T07:35:55.667Z",
+    "amount": 103.4254551508127,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 91,
+    "date": "2023-04-10T07:35:55.667Z",
+    "amount": 852.607365837793,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 92,
+    "date": "2023-04-11T07:35:55.667Z",
+    "amount": 763.1773964414415,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 93,
+    "date": "2023-04-12T07:35:55.667Z",
+    "amount": 503.82359040935734,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 94,
+    "date": "2023-04-13T07:35:55.667Z",
+    "amount": 798.5401823099056,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 95,
+    "date": "2023-04-14T07:35:55.667Z",
+    "amount": 216.76772642516528,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 96,
+    "date": "2023-04-15T07:35:55.667Z",
+    "amount": 597.4709260636974,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 97,
+    "date": "2023-04-16T07:35:55.667Z",
+    "amount": 951.9539308946279,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 98,
+    "date": "2023-04-17T07:35:55.667Z",
+    "amount": 62.522230323985625,
+    "account": "Dor",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 99,
+    "date": "2023-04-18T07:35:55.667Z",
+    "amount": 125.66849756974862,
+    "account": "Masha",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  },
+  {
+    "id": 100,
+    "date": "2023-04-19T07:35:55.667Z",
+    "amount": 390.2178200950444,
+    "account": "Shared",
+    "type": "Food",
+    "subtype": "Grocery",
+    "comment": "The brothers store"
+  }
+]

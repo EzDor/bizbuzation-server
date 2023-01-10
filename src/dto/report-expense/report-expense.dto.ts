@@ -1,5 +1,5 @@
 export interface ReportExpenseDto {
-  id: number;
+  id?: number;
   date: Date;
   amount: number;
   account: string;

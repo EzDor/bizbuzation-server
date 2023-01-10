@@ -1,25 +1,30 @@
 import { Injectable } from '@nestjs/common';
+import { InjectRepository } from '@nestjs/typeorm';
+import { ReportExpenseEntity } from '@src/dao/entities/report-expense.entity';
 import { ReportExpenseDto } from '@src/dto/report-expense/report-expense.dto';
+import { DeleteResult, Repository, UpdateResult } from 'typeorm';
 
 @Injectable()
 export class ReportExpenseService {
-  create(reportExpenseDto: ReportExpenseDto) {
-    return 'This action adds a new reportExpense';
+  constructor(@InjectRepository(ReportExpenseEntity) private reportExpenseRepository: Repository<ReportExpenseEntity>) {}
+
+  public create(reportExpenseDto: ReportExpenseDto): Promise<ReportExpenseEntity> {
+    return this.reportExpenseRepository.save(reportExpenseDto);
   }
 
-  findAll() {
-    return `This action returns all reportExpense`;
+  public findAll(): Promise<ReportExpenseEntity[]> {
+    return this.reportExpenseRepository.find();
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} reportExpense`;
+  public findOne(id: number): Promise<ReportExpenseEntity> {
+    return this.reportExpenseRepository.findOneBy({ id });
   }
 
-  update(id: number, reportExpenseDto: ReportExpenseDto) {
-    return `This action updates a #${id} reportExpense`;
+  public update(id: number, reportExpenseDto: ReportExpenseDto): Promise<UpdateResult> {
+    return this.reportExpenseRepository.update({ id }, reportExpenseDto);
   }
 
-  remove(id: number) {
-    return `This action removes a #${id} reportExpense`;
+  public remove(id: number): Promise<DeleteResult> {
+    return this.reportExpenseRepository.delete({ id });
   }
 }
