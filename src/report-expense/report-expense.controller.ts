@@ -22,12 +22,12 @@ export class ReportExpenseController {
   }
 
   @Patch(':id')
-  public update(@Param('id') id: string, @Body() reportExpenseDto: ReportExpenseDto) {
+  public update(@Param('id') id: number, @Body() reportExpenseDto: ReportExpenseDto) {
     return this.reportExpenseService.update(+id, reportExpenseDto);
   }
 
   @Delete(':id')
-  public remove(@Param('id') id: string) {
+  public remove(@Param('id') id: number) {
     return this.reportExpenseService.remove(+id);
   }
 }
